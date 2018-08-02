@@ -1,4 +1,4 @@
-package com.nguyenhoanglam.imagepicker.ui.imagepicker;
+ package com.nguyenhoanglam.imagepicker.ui.imagepicker;
 
 import android.Manifest;
 import android.content.Intent;
